@@ -1,0 +1,17 @@
+# Built artifacts
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Keep the Gradle wrapper jar tracked
+!gradle/wrapper/gradle-wrapper.jar

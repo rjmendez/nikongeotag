@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NikonGeotag</string>
+
+    <!-- Header -->
+    <string name="header_subtitle">GPS metadata for your Nikon Z</string>
+
+    <!-- Status card -->
+    <string name="status_card_title">Status</string>
+    <string name="connection_label">Connection</string>
+    <string name="status_idle">Status: idle</string>
+    <string name="last_fix_none">Last fix: —</string>
+
+    <!-- Connection-state chip labels -->
+    <string name="state_idle">Idle</string>
+    <string name="state_scanning">Scanning</string>
+    <string name="state_pairing">Pairing</string>
+    <string name="state_bonding">Bonding</string>
+    <string name="state_connected">Connected</string>
+    <string name="state_sending">Sending</string>
+    <string name="state_sent">Sent</string>
+    <string name="state_error">Error</string>
+
+    <!-- Inputs -->
+    <string name="camera_field_label">Paired camera</string>
+    <string name="camera_mac_hint">Camera BLE MAC (AA:BB:CC:DD:EE:FF)</string>
+    <string name="camera_mac_helper">Resolved automatically after pairing</string>
+    <string name="sync_interval_label">Sync interval</string>
+    <string name="sync_interval_hint">Interval seconds (5\u20133600)</string>
+
+    <!-- Buttons -->
+    <string name="pair_camera">Pair camera</string>
+    <string name="start_sync">Start sync</string>
+    <string name="stop_sync">Stop sync</string>
+
+    <!-- Messages -->
+    <string name="required_permissions_missing">Required permissions are missing.</string>
+    <string name="interval_invalid">Interval must be between 5 and 3600 seconds</string>
+</resources>

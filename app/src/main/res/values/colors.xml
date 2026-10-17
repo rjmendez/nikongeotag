@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand palette -->
+    <color name="brand_primary">#4F9CF0</color>
+    <color name="brand_primary_dark">#0D47A1</color>
+    <color name="brand_on_primary">#0A1929</color>
+    <color name="brand_secondary">#4DB6AC</color>
+    <color name="brand_on_secondary">#00201C</color>
+
+    <!-- Dark surfaces -->
+    <color name="surface">#121316</color>
+    <color name="surface_variant">#1C1D21</color>
+    <color name="on_surface">#E3E3E6</color>
+    <color name="on_surface_variant">#A8ABB4</color>
+
+    <!-- Connection-state colors -->
+    <color name="state_idle">#607D8B</color>
+    <color name="state_pairing">#F9A825</color>
+    <color name="state_bonding">#EF6C00</color>
+    <color name="state_connected">#1565C0</color>
+    <color name="state_sending">#1E88E5</color>
+    <color name="state_sent">#2E7D32</color>
+    <color name="state_error">#C62828</color>
+    <color name="state_on_color">#FFFFFF</color>
+</resources>
